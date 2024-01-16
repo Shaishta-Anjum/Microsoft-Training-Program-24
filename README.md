@@ -1,1 +1,1 @@
-# Microsoft-Training-Program-24
+# Microsoft Training Program '24
